@@ -8,3 +8,4 @@ urlpatterns = [
 ]
 #add path 
 #okay 
+#write code for more urls 
