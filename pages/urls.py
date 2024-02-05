@@ -7,3 +7,4 @@ urlpatterns = [
     path('about/',AboutPageView.as_view(),name='about'),
 ]
 #add path 
+#okay 
