@@ -38,6 +38,5 @@ class AboutPageTests(SimpleTestCase):
         self.assertContains(response, '<h1>about page</h1>')
 
 
-# comment
         
 
